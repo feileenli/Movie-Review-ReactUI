@@ -1,0 +1,19 @@
+.search {
+    margin-right: 10px;
+}
+
+.searchbar {
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.55);
+    border-radius: 3px;
+
+}
+
+.searchbar:hover {
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+.drop-down {
+    margin-right: 10px; 
+}
+
